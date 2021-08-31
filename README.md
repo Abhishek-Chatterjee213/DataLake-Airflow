@@ -52,7 +52,7 @@ The sources are the same than previous projects:
 
 ***ETL Process***
 
- ![Alt](/img/dag.png "Dag")
+ ![Alt](./img/dag.PNG "Dag")
 
  Above is the dag created by for the sparkify etl_process. Below are short description of each component --
 
